@@ -58,9 +58,9 @@ Add remote maven url
     
 Now add a library dependency (remember to check for latest release)
 
-```groovy
+```kotlin
     dependencies {
-        compile 'com.github.Triggertrap:SeekArc:v1.1'
+      implementation("com.github.rahul31124:CustomSeekArc:1.2")
     }
 ```
 
