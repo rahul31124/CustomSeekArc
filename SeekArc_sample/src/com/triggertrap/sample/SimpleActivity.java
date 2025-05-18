@@ -89,14 +89,15 @@ public class SimpleActivity extends Activity {
 			}
 
 			@Override
-			public void onStartTrackingTouch(SeekArc seekArc) {
+			public void onProgressChanged(SeekArc seekArc, float progress, boolean fromUser) {
+
 			}
 
 			@Override
-			public void onProgressChanged(SeekArc seekArc, int progress,
-										  boolean fromUser) {
-				mSeekArcProgress.setText(String.valueOf(progress));
+			public void onStartTrackingTouch(SeekArc seekArc) {
 			}
+
+
 		});
 			
 		mRotation.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {
