@@ -28,6 +28,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 
 import com.triggertrap.seekarc.SeekArc;
+import com.triggertrap.seekarc.sample.R;
 
 /**
  * Sample to show seekarc in readonly state and setting progress/arc colors programmatically

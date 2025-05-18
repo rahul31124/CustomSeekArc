@@ -31,6 +31,8 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.triggertrap.seekarc.sample.R;
+
 /**
  * 
  * MainActivity.java

@@ -33,6 +33,7 @@ import android.widget.TextView;
 
 import com.triggertrap.seekarc.SeekArc;
 import com.triggertrap.seekarc.SeekArc.OnSeekArcChangeListener;
+import com.triggertrap.seekarc.sample.R;
 
 /**
  * 

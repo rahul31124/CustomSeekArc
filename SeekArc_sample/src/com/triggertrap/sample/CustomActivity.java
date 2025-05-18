@@ -23,6 +23,8 @@
  ******************************************************************************/
 package com.triggertrap.sample;
 
+import com.triggertrap.seekarc.sample.R;
+
 /**
  * 
  * CustomActivity.java

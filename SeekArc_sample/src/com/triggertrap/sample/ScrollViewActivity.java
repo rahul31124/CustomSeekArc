@@ -33,6 +33,7 @@ import android.widget.TextView;
 
 import com.triggertrap.seekarc.SeekArc;
 import com.triggertrap.seekarc.SeekArc.OnSeekArcChangeListener;
+import com.triggertrap.seekarc.sample.R;
 
 /**
  * Sample to proove the PR for including the seekarc in a scroll view works as expected
