@@ -84,16 +84,12 @@ public class SimpleActivity extends Activity {
 		
 		mSeekArc.setOnSeekArcChangeListener(new OnSeekArcChangeListener() {
 
-			@Override
+
 			public void onStopTrackingTouch(SeekArc seekArc) {
 			}
-
-			@Override
 			public void onProgressChanged(SeekArc seekArc, float progress, boolean fromUser) {
 
 			}
-
-			@Override
 			public void onStartTrackingTouch(SeekArc seekArc) {
 			}
 
